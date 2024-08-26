@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Achintha</h1>
 <h3 align="center">A passionate developer from Sri Lanka</h3>
 
-<img align="right" alt="coding" width="400" src="https://i.gifer.com/J4o.gif">
+<img align="right" alt="coding" width="400" src="https://github.com/achintharajaka/achintharajaka/blob/4dc6442e40a8e03eefe59f60bf219c57c2978d24/giphy-ezgif.com-webp-to-gif-converter.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=achintharajaka&label=Profile%20views&color=0e75b6&style=flat" alt="achintharajaka" /> </p>
 
