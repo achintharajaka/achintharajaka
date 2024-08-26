@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Achintha</h1>
 <h3 align="center">A passionate developer from Sri Lanka</h3>
 
+<img align="right" alt="coding" width="400" src="[https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExczQwbTg5enp4NTMwaXNlOGdoYmg0dDB1Y2k5bDdyZ2M1MXZvZmx2aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AOSwwqVjNZlDO/giphy.webp)">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=achintharajaka&label=Profile%20views&color=0e75b6&style=flat" alt="achintharajaka" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=achintharajaka" alt="achintharajaka" /></a> </p>
