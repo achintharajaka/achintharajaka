@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Achintha</h1>
 <h3 align="center">A passionate developer from Sri Lanka</h3>
 
+<div style="padding-top:56.200%;position:relative;"><iframe src="https://gifer.com/embed/J4o" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
+
 <img align="right" alt="coding" width="400" src="https://i.gifer.com/J4o.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=achintharajaka&label=Profile%20views&color=0e75b6&style=flat" alt="achintharajaka" /> </p>
