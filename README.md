@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **JavaScript, HTML, CSS, jQuery, Python, Java**
 
-- 📫 How to reach me **achintharajaka@gmail.com & linkedin.com/in/achintharajaka/**
+- 📫 How to reach me **achintharajaka@gmail.com & [linkedin.com/in/achintharajaka/](https://www.linkedin.com/in/achintharajaka/)**
 
 <!-- Connect with me -->
 <h3 align="left">Connect with me:</h3>
