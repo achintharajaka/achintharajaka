@@ -11,7 +11,7 @@
 </p>
 
 <p align="left"> 
-    <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> 
+    <a href="https://g.dev/achintharajaka" target="blank"><img src="https://img.shields.io/badge/google-dev-green?logo=google" alt="" /></a> 
 </p>
 
 <!-- Personal info -->
