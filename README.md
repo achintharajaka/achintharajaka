@@ -11,7 +11,7 @@
 </p>
 
 <p align="left"> 
-    <a href="https://g.dev/achintharajaka" target="blank"><img src="https://img.shields.io/badge/Google-Dev-blue?logo=google" alt="" /></a> 
+    <a href="https://g.dev/achintharajaka" target="blank"><img src="https://img.shields.io/badge/GoogleDev-Profile-yellow?logo=google" alt="" /></a> 
 </p>
 
 <p align="left"> 
