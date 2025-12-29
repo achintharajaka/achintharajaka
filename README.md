@@ -11,7 +11,11 @@
 </p>
 
 <p align="left"> 
-    <a href="https://g.dev/achintharajaka" target="blank"><img src="https://img.shields.io/badge/google-dev-green?logo=google" alt="" /></a> 
+    <a href="https://g.dev/achintharajaka" target="blank"><img src="https://img.shields.io/badge/Google-Dev-blue?logo=google" alt="" /></a> 
+</p>
+
+<p align="left"> 
+    <a href="shorturl.at/OzNha" target="blank"><img src="https://img.shields.io/badge/GoogleCloud-Badges-red?logo=googlecloud" alt="" /></a> 
 </p>
 
 <!-- Personal info -->
